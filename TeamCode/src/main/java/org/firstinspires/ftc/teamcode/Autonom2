@@ -38,7 +38,7 @@ public class Autonom extends LinearOpMode {
         waitForStart();
         runtime.reset();
 
-        // run until the end of the match (driver presses STOP)
+        // run until the end of the match (driver presses STP)
         while (opModeIsActive()) {
 
 
